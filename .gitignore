@@ -1,0 +1,12 @@
+# Conda environment
+env/
+.conda/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS / Editor
+.vscode/
+.idea/
+.DS_Store
